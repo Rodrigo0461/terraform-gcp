@@ -2,6 +2,8 @@
 **/.terraform/*
 **/json/*
 *.json
+*.tfstate
+*.tfstate.backup
 **/credentials/*
 *.DS_Store
 *.sh
