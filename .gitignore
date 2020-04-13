@@ -1,0 +1,7 @@
+# Local .terraform directories
+**/.terraform/*
+**/json/*
+*.json
+**/credentials/*
+*.DS_Store
+*.sh
