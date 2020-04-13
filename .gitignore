@@ -3,6 +3,7 @@
 **/json/*
 *.json
 *.tfstate
+*.tfvars
 *.tfstate.backup
 **/credentials/*
 *.DS_Store
